@@ -1,5 +1,13 @@
 - type: zoom
   url: https://nordeus.zoom.us/j/99365806060?pwd=bUR3QVQ3M3BQcVRoR05NcGx4Z3p2Zz09
   author: Nemanja Mićović
-  time: Sreda 15:15 - 18:15
+  time: Sreda (15:15 - 18:15)
   pass: matfrs
+  group: 4I-GR1
+- type: webex
+  url: https://matf.webex.com/matf/j.php?MTID=m858d428d8d22c53112c779f2c91b3000
+  author: Nikola Ajzenhamer
+  time: Utorak (09:00 - 12:00)
+  pass: 9FwcqpPVB23
+  group: 4I-GR3
+  meet_num: 1378925201
