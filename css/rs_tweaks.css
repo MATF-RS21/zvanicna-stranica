@@ -22,3 +22,8 @@ footer {
 .centerText {
     text-align: center;
 }
+
+a {
+    color: #335ada;
+    font-weight: 600;
+}
