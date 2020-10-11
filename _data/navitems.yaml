@@ -1,0 +1,18 @@
+- url: index.html
+  name: Početna
+  active: home
+  icon: <i class="fas fa-home"></i>
+  iconclasses: fas fa-home
+  visible: true
+- url: http://poincare.matf.bg.ac.rs/~smalkov/nastava.osnovne.html#r290_rs
+  name: Predavanja
+  active: predavanja
+  icon: <i class="fas fa-robot"></i>
+  iconclasses: fas fa-book
+  visible: true
+- url: vezbe.html
+  name: Vežbe
+  active: rs
+  icon: <i class="fas fa-robot"></i>
+  iconclasses: fas fa-robot
+  visible: true

@@ -1,0 +1,24 @@
+html, body {
+    max-width: 100%;
+    overflow-x: hidden;
+}
+
+.archBlueColor {
+    color: #714cdf;
+}
+
+footer {
+    border-top: 1px solid #714cdf;
+    background-color: #0c0d16dd;
+}
+
+.dragonFooter {
+    /*background-color: #222222;*/
+    height: 60px;
+    line-height: 60px;                  /* vertical align text */
+    text-align: center;                 /* horizontal align text */
+}
+
+.centerText {
+    text-align: center;
+}
