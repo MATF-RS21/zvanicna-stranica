@@ -4,6 +4,12 @@
   time: Sreda (15:15 - 18:15)
   pass: matfrs
   group: 4I-GR1
+- type: zoom
+  url:  https://nordeus.zoom.us/j/93294901908?pwd=eWVhMmZMbnVIU3AwS1JzYlhuU1Fodz09
+  author: Nemanja Mićović
+  time: Četvrtak (15:15 - 18:15)
+  pass: matfrs
+  group: 4I-GR2
 - type: webex
   url: https://matf.webex.com/matf/j.php?MTID=m858d428d8d22c53112c779f2c91b3000
   author: Nikola Ajzenhamer
