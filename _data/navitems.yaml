@@ -4,7 +4,7 @@
   icon: <i class="fas fa-home"></i>
   iconclasses: fas fa-home
   visible: true
-- url: http://poincare.matf.bg.ac.rs/~smalkov/nastava.osnovne.html#r290_rs
+- url: http://poincare.matf.bg.ac.rs/~smalkov/nastava.rs.html
   name: Predavanja
   active: predavanja
   icon: <i class="fas fa-robot"></i>
