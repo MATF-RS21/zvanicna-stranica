@@ -1,14 +1,16 @@
-- type: zoom
-  url: https://nordeus.zoom.us/j/99365806060?pwd=bUR3QVQ3M3BQcVRoR05NcGx4Z3p2Zz09
+- type: webex
+  url: https://matf.webex.com/matf/j.php?MTID=m2543962683c3bb71405e3eb1605dd97d
   author: Nemanja Mićović
   time: Sreda (15:15 - 18:15)
-  pass: matfrs
+  pass: CAvGJJtw538
   group: 4I-GR1
-- type: zoom
-  url:  https://nordeus.zoom.us/j/93294901908?pwd=eWVhMmZMbnVIU3AwS1JzYlhuU1Fodz09
+  meet_num: 137 234 2648
+- type: webex
+  url:  https://matf.webex.com/matf/j.php?MTID=m48fc4c0342a292a1c77e9d88c0d302e2
   author: Nemanja Mićović
   time: Četvrtak (15:15 - 18:15)
-  pass: matfrs
+  pass: Zq6j4JZuKw3
+  meet_num: 137 249 8290
   group: 4I-GR2
 - type: webex
   url: https://matf.webex.com/matf/j.php?MTID=m858d428d8d22c53112c779f2c91b3000
