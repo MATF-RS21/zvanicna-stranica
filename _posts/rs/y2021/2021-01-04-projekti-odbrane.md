@@ -16,3 +16,10 @@ U ovom obaveštenju ćemo objavljivati informacije o odbranama projekata kako ih
 
 - Webex sastanci za odbrane projekata:
     - Biće okačeni uskoro.
+
+- Pravila za odbrane:
+    - Svi članovi tima moraju da brane projekat u istom terminu.
+    - Ceo tim mora da ima uključene kamere.
+    - Može da bude više članova tima na istoj lokaciji.
+    - Biće vam omogućeno da delite svoj ekran za potrebe prikazivanja koda i sl.
+    - Molimo vas da unapred razdelite vreme između članova tima, pošto je vreme za odbranu ograničeno i biće mereno.
